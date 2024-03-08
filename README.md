@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Aidan-Miranda
 - 👀 I’m interested in Computer Science and Machine Learning
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m a full-stack developer specialized in React.js and Node.js
 - 📫 How to reach me: mirandablascoaidan@gmail.com
